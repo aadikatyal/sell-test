@@ -44,10 +44,12 @@ mark
 	background-color:#FFFF00;
 }
 
-.time
+.box
 {
-  width: 300px;
-  border: 1px solid lightgray;
+	margin-left: 20px;
+	width: 300px;
+	padding: 10px;
+	border: 1px solid lightgray;
 }
 
 .column 
@@ -76,10 +78,4 @@ mark
 .space
 {
 	padding-left: 24px;
-}
-
-.responsive 
-{
-  width: 65%;
-  height: auto;
 }
